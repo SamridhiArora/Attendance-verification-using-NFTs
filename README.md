@@ -16,3 +16,4 @@ The project aims to revolutionize attendance tracking by leveraging blockchain a
 ## Contract Details
 - **Contract Address**: [0x4ba2d6e4bbaa3e347ac5a3d78c9da12d4a8fe6d389477b4c62ab21ec7620246e]
 
+![image](https://github.com/user-attachments/assets/a7e916a8-6e37-43d4-80c5-513cf185df7a)
