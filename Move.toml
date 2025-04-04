@@ -1,0 +1,15 @@
+[package]
+name = "attendance_nft"
+version = "0.0.1"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "main", subdir = "aptos-move/framework/aptos-framework" }
+AptosToken = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "main", subdir = "aptos-move/framework/aptos-token" }
+AptosStdlib = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "main", subdir = "aptos-move/framework/aptos-stdlib" }
+
+[addresses]
+attendance_nft = "0xbee15f02b0f40ed652915038caa88f6d29d514f34523b15b8435a434d52d90b6"
+
+[dev-addresses]
+
+[dev-dependencies]
