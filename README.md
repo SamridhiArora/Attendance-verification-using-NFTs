@@ -1,15 +1,14 @@
-# 🚀 Blockchain Certificate Verification System
+# 🚀 Blockchain Attendance Verification System
 
-## 📝 Description
-The Blockchain Certificate Verification System is a secure and transparent platform designed to validate and authenticate certificates using blockchain technology. It ensures that certificates remain tamper-proof and verifiable without relying on intermediaries.
+## 📝 Description The Attendance Verification System is a secure and transparent platform designed to validate and authenticate c using blockchain technology. It ensures that attendances remain tamper-proof and verifiable without relying on intermediaries.
 
 ![image](https://github.com/user-attachments/assets/9df3e12c-e12b-4470-85ff-67288c900ad9)
 
 ## 🌟 Vision
-Our vision is to create a decentralized and immutable certification verification system that eliminates fraud, enhances transparency, and builds trust in educational and professional credentials.
+Our vision is to create a decentralized and immutable attendance verification system that eliminates fraud, enhances transparency, and builds trust in educational and professional credentials.
 
 ## 🔎 Future Scope
-- 📡 **Integration with Institutions:** Collaborate with universities and organizations for seamless certificate issuance.
+- 📡 **Integration with Institutions:** Collaborate with universities and organizations
 - 🌍 **Global Recognition:** Expand the platform for international institutions and enterprises.
 - 📱 **Mobile Application:** Develop a user-friendly mobile app for easy verification on the go.
 - 🛡️ **Multi-Chain Support:** Implement support for multiple blockchain networks.
@@ -22,6 +21,3 @@ For further details, updates, and technical documentation, please visit our proj
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
